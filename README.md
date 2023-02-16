@@ -5,6 +5,8 @@ use it on the damn school PC
 
 使學校的電腦處於最安全的狀態
 
+.
+
 I hate it when the school computer keeps auto-reverting and disappearing our masterpieces, so I'm going to hack it
 
 學校電腦總是自動還原使我們的傑作消失，我很討厭這點，因此我打算破解它
