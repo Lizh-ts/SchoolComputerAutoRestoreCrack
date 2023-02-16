@@ -14,25 +14,25 @@ I hate it when the school computer keeps auto-reverting and disappearing our mas
 means
 
 方法
-　
+
 .
 
 1Find Configuration Files
 
 找出配置文件
-　
+
 .
 
 2Copy the TOOLWIZTIMEFREEZE.CONFIG file to a folder on the flash drive
 
 將TOOLWIZTIMEFREEZE.CONFIG文件複製到隨身碟的某資料夾
-　
+
 .
 
 (Assumed to be N:\tmp)
 
 (假設為 F:\tmp)
-　
+
 .
 
 ==========Batch==========
