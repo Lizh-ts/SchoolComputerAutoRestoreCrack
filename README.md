@@ -24,10 +24,6 @@
 
 (假設為 F:\tmp)
 
-.
-
-==========Batch==========
-
 C:
 
 dir /a
@@ -38,7 +34,6 @@ del /a TOOLWIZTIMEFREEZE.CONFIG
 
 copy F:\TMP\TOOLWIZTIMEFREEZE.CONFIG
 
-=========================
-
-
 註:密碼是"123"
+
+test with HLHS PC
