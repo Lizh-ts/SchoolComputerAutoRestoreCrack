@@ -7,7 +7,7 @@
 
 學校電腦總是自動還原使我們的傑作消失，我很討厭這點，因此我打算破解它
 
-而且有時還開不了機，需要用腳踹和摔的物理修復
+且在使用時可能會當機，甚至開不了機，需要用腳踹和摔的方式進行物理修復
 
 
 方法
@@ -16,7 +16,7 @@
 
 找出學校用的還原軟體
 
-若不是裝上ToolwizTimeFreeze軟體的電腦請迴避
+若不是裝上ToolwizTimeFreeze軟體的電腦請轉彎
 
 找出配置文件
 
@@ -34,6 +34,6 @@ del /a TOOLWIZTIMEFREEZE.CONFIG
 
 copy F:\TMP\TOOLWIZTIMEFREEZE.CONFIG
 
-註:密碼是"123"
+註:密碼是"123"，原配置文件需刪除才能進行複製，不然會出現"存取被拒"
 
 test with HLHS PC
