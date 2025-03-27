@@ -38,7 +38,7 @@ copy F:\TMP\TOOLWIZTIMEFREEZE.CONFIG
 
 test with HLHS PC
 
-#高一時幹過的好事
+# 高一時幹過的好事
 
 ## 手機殼 09/16/22
 
